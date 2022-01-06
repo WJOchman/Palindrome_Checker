@@ -1,4 +1,4 @@
-<h1>Palindrome_Checker</h1>
+<h1>Palindrome Checker</h1>
 
 <h2>JavaScript Project 1</h2>
 
